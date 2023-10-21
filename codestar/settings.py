@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-tulaunogi-blogcilearnin-571qia7jgdv.ws-eu105.gitpod.io',
-                 'blog-ci-learning.herokuapp.com', 'localhost']
+                 'blog-ci-learning-a1359f7d03f8.herokuapp.com', 'localhost']
 
 
 # Application definition
